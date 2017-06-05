@@ -1,3 +1,11 @@
+/*
+    File: string.h
+    Description: This is the header file for string class
+    Course: 150018 C++ Workshop, Exercise 4, Question 1
+    Student1: Avi margali 305645137
+    Student2: Yeuda Nuiman 301759692
+    Teacher: Dan Zilberstein
+*/
 #ifndef __STRING_H
 #define __STRING_H
 #include <string.h>
@@ -18,7 +26,6 @@ public:
    ~String();                       // Dtor
 
    char* getString() const;         // Viewer
-
    // Operators
    String& operator = (const String&);     // Copy Assignment
    String& operator = (String&&);          // Move Assignment
@@ -34,16 +41,17 @@ public:
    String & operator *= (unsigned int);     // Multiplication by replicating
    friend String operator * (String, unsigned int);  // Symmetric multiplication as friend
    
-  int  operator[](const char *);
+  int  operator[](const char *);//index operator - get the index of substring
 
    // Public functions
    int length() const; // Length of the string
    void print() const; // Print the string
-   String& insert(int index, const char* str);
+   String& insert(int index, const char* str);//insert cstring in the string in index
 
-   friend ostream & operator<< (ostream&,const String&);
+   friend ostream & operator<< (ostream&,const String&);//output operator for cout
 };
-ostream & operator<< (ostream&, const String&);
+//global operators//
+ostream & operator<< (ostream&, const String&);//output operator for cout
 String operator + (String, const String&); // Declaration of addition operator (global)
 String operator * (String, unsigned int);  // Declaration of mulitiplication oeprator (global)
 

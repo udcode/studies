@@ -20,5 +20,6 @@ list(REMOVE_DUPLICATES Foo_INCLUDE_DIRS)
 
 include_directories(${Foo_INCLUDE_DIRS})
 
-get_filename_component(dir ${CMAKE_CURRENT_SOURCE_DIR} NAME)
-add_executable (${dir} ${Foo_SOURCES})
+get_filename_component(path ${CMAKE_CURRENT_SOURCE_DIR} ABSOLUTE)
+string(REPLACE "/" "" exe_name "${path}")
+add_executable (${exe_name} ${Foo_SOURCES})

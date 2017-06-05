@@ -23,20 +23,18 @@ void operation(void *, const void *, const void * ,Func);
 using comparator = int(*)(const void*, const void*);
 // ===== Tamplates=====//
 //tamplate to add tow items and return the result
-//@note: we can't return a reference to a loacl variable
-//so i change it to const T return.
 template<typename T>
-const T/*&*/ add(const T& a,const T& b){
+const T add(const T& a,const T& b){
     return a+b;
 }
 //tamplate to sub tow items and return the result
 template<typename T>
-const T/*&*/ sub(const T& a,const T& b){
+const T sub(const T& a,const T& b){
     return a-b;
 }
 //tamplate to multiply tow items and return the result
 template<typename T>
-const T/*&*/ mult(const T& a,const T& b){
+const T mult(const T& a,const T& b){
     return a*b;
 }
 //tamplate to compare tow elements, return 0 if tey equel, -1 if the first is smaller

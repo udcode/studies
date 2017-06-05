@@ -1,0 +1,170 @@
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+1
+choose a vector:
+    1 for v1
+    2 for v2
+1
+insert the amount of numbers you want to insert:
+4
+insert the numbers:
+2 5 6 4
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+1
+choose a vector:
+    1 for v1
+    2 for v2
+2
+insert the amount of numbers you want to insert:
+2
+insert the numbers:
+1 2
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+2
+the first and the second vectors are not equel
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+3
+ERROR: your vectors are not in the same size
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+4
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+8
+capacity: 9 size: 4 content: 2 5 6 4
+capacity: 9 size: 2 content: 1 2
+capacity: 9 size: 4 content: 2 5 6 4
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+5
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+8
+capacity: 9 size: 4 content: 2 5 6 4
+capacity: 9 size: 2 content: 1 2
+capacity: 18 size: 6 content: 2 5 6 4 1 2
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+6
+choose a vector:
+    1 for v1
+    2 for v2
+1
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+8
+capacity: 9 size: 0 content:
+capacity: 9 size: 2 content: 1 2
+capacity: 18 size: 6 content: 2 5 6 4 1 2
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+7
+choose a vector:
+    1 for v1
+    2 for v2
+2
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+
+8
+capacity: 9 size: 0 content:
+capacity: 9 size: 0 content:
+capacity: 18 size: 6 content: 2 5 6 4 1 2
+enter 1 to insert numbers to vector
+enter 2 to compare the two vectors
+enter 3 to multiply the two vectors
+enter 4 to copy the first vector to the third vector
+enter 5 to sum the first and second vectors into the third vector
+enter 6 to clear vector
+enter 7 to delete last item in vector
+enter 8 to print all the vectors
+enter 0 to stop
+0
+

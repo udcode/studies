@@ -170,7 +170,7 @@ int main() {
             cin.ignore();
             cin.getline(driver, 80);
             ptrDriver = new char[strlen(driver) + 1];
-            strcpy_s(ptrDriver,strlen(driver) + 1, driver);//copy the name to pointer
+            strcpy/*_s*/(ptrDriver/*,strlen(driver) + 1*/, driver);//copy the name to pointer
             ptrDriver[strlen(driver)] = '\0';
             try{
                 bus = getBus(busId);//get pointer to the bus

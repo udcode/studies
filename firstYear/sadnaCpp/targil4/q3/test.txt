@@ -1,0 +1,83 @@
+enter account number and code for 10 accounts:
+15
+12
+08:00:00
+	not a valid code format
+2
+4556
+23
+2458
+5
+1546
+5
+5864
+08:00:00
+	ERROR: account number must be unique!
+56
+5685
+4
+5848
+563
+5878
+4
+5265
+08:00:00
+	ERROR: account number must be unique!
+548
+5564
+6
+4564
+52
+4563
+547
+5556
+enter 1 to get account balance
+enter 2 to deposit money
+enter 3 to withdraw money
+enter 4 to see the sum of all Deposits
+enter 5 to see the sum of all withdraws
+enter 0 to stop
+2
+please enter account number: 6
+please enter the code: 4564
+enter the amount of the check: 52
+08:00:30
+	Account #: 6	new balance: 52
+enter 1 to get account balance
+enter 2 to deposit money
+enter 3 to withdraw money
+enter 4 to see the sum of all Deposits
+enter 5 to see the sum of all withdraws
+enter 0 to stop
+3
+please enter account number: 6
+please enter the code: 4564
+enter the amount of money to withdraw: 60
+08:01:20
+	Account #: 6	new balance: -8
+enter 1 to get account balance
+enter 2 to deposit money
+enter 3 to withdraw money
+enter 4 to see the sum of all Deposits
+enter 5 to see the sum of all withdraws
+enter 0 to stop
+4
+08:02:20
+	Sum of all deposits: 52
+enter 1 to get account balance
+enter 2 to deposit money
+enter 3 to withdraw money
+enter 4 to see the sum of all Deposits
+enter 5 to see the sum of all withdraws
+enter 0 to stop
+5
+08:03:20
+	Sum of all withdraws: 60
+enter 1 to get account balance
+enter 2 to deposit money
+enter 3 to withdraw money
+enter 4 to see the sum of all Deposits
+enter 5 to see the sum of all withdraws
+enter 0 to stop
+0
+

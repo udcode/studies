@@ -1,0 +1,102 @@
+Menu options:
+
+   0	--	Exit
+   1	--	Add to the beginning of the list
+   2	--	Add to the end of the list
+   3	--	Remove first from list
+   4	--	Search in the list
+   5	--	Clear the list
+   6	--	Check whether the list is empty
+
+Please choose a menu option: 1
+Enter 5 numbers: 1 2 3 4 5
+5 4 3 2 1 
+Menu options:
+
+   0	--	Exit
+   1	--	Add to the beginning of the list
+   2	--	Add to the end of the list
+   3	--	Remove first from list
+   4	--	Search in the list
+   5	--	Clear the list
+   6	--	Check whether the list is empty
+
+Please choose a menu option: 2
+Enter 5 numbers: 1 2 3 4 5
+5 4 3 2 1 1 2 3 4 5 
+Menu options:
+
+   0	--	Exit
+   1	--	Add to the beginning of the list
+   2	--	Add to the end of the list
+   3	--	Remove first from list
+   4	--	Search in the list
+   5	--	Clear the list
+   6	--	Check whether the list is empty
+
+Please choose a menu option: 3
+
+Menu options:
+
+   0	--	Exit
+   1	--	Add to the beginning of the list
+   2	--	Add to the end of the list
+   3	--	Remove first from list
+   4	--	Search in the list
+   5	--	Clear the list
+   6	--	Check whether the list is empty
+
+Please choose a menu option: 4
+Enter a number: 3
+2
+
+Menu options:
+
+   0	--	Exit
+   1	--	Add to the beginning of the list
+   2	--	Add to the end of the list
+   3	--	Remove first from list
+   4	--	Search in the list
+   5	--	Clear the list
+   6	--	Check whether the list is empty
+
+Please choose a menu option: 6
+Not empty
+
+Menu options:
+
+   0	--	Exit
+   1	--	Add to the beginning of the list
+   2	--	Add to the end of the list
+   3	--	Remove first from list
+   4	--	Search in the list
+   5	--	Clear the list
+   6	--	Check whether the list is empty
+
+Please choose a menu option: 5
+
+Menu options:
+
+   0	--	Exit
+   1	--	Add to the beginning of the list
+   2	--	Add to the end of the list
+   3	--	Remove first from list
+   4	--	Search in the list
+   5	--	Clear the list
+   6	--	Check whether the list is empty
+
+Please choose a menu option: 6
+Empty
+
+Menu options:
+
+   0	--	Exit
+   1	--	Add to the beginning of the list
+   2	--	Add to the end of the list
+   3	--	Remove first from list
+   4	--	Search in the list
+   5	--	Clear the list
+   6	--	Check whether the list is empty
+
+Please choose a menu option: 0
+

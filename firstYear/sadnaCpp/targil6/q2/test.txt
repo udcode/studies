@@ -1,0 +1,10 @@
+enter number of sides for polygan 1
+3
+enter sizes of Polygan
+1 23 3
+enter number of sides for polygan 2
+3
+enter sizes of Polygan
+4 1 22
+equal
+

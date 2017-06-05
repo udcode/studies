@@ -115,8 +115,9 @@ int Vector::getSize() const{
 
 void Vector::clear(){
     //free the memory and rest the fileds
-    delete []data;
-    data=nullptr;
+    for(int i=0;i<capacity;++i){
+        data[i]=0;
+    }
     size=0;
 }
 

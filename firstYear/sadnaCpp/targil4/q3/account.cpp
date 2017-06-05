@@ -1,3 +1,11 @@
+/*
+    File: account.cpp
+    Description: This is the file for account class
+    Course: 150018 C++ Workshop, Exercise 4, Question 3
+    Student1: Avi margali 305645137
+    Student2: Yeuda Nuiman 301759692
+    Teacher: Dan Zilberstein
+*/
 #include "account.h"
 float Account::_sumDeposit =0;//initializing the static fields
 float Account::_sumWithdraw =0;//initializing the static fields

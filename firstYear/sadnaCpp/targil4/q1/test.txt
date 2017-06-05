@@ -1,0 +1,49 @@
+enter 1 to insert two strings
+enter 2 to compare the two strings
+enter 3 to insert at Nth location
+enter 4 to search for b in a
+enter 0 to stop
+1
+insert first word
+chag sameach
+insert second word
+enter 1 to insert two strings
+enter 2 to compare the two strings
+enter 3 to insert at Nth location
+enter 4 to search for b in a
+enter 0 to stop
+2
+a<b
+enter 1 to insert two strings
+enter 2 to compare the two strings
+enter 3 to insert at Nth location
+enter 4 to search for b in a
+enter 0 to stop
+3
+insert index
+5
+error inserting at index: 5 original string size: 4
+enter 1 to insert two strings
+enter 2 to compare the two strings
+enter 3 to insert at Nth location
+enter 4 to search for b in a
+enter 0 to stop
+3
+insert index
+2
+chsameachag
+sachagmeach
+enter 1 to insert two strings
+enter 2 to compare the two strings
+enter 3 to insert at Nth location
+enter 4 to search for b in a
+enter 0 to stop
+4
+sameach: was not found 
+enter 1 to insert two strings
+enter 2 to compare the two strings
+enter 3 to insert at Nth location
+enter 4 to search for b in a
+enter 0 to stop
+0
+

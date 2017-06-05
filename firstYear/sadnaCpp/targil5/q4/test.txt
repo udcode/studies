@@ -1,0 +1,6 @@
+enter sorted values for the first list:
+1 2 3 4 5 1
+enter sorted values for the second list:
+1 2 3 4 1
+the new merged list: 1 1 2 2 3 3 4 4 5 
+the new merged set: 1 2 3 4 5

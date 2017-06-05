@@ -1,0 +1,26 @@
+enter the list values
+2 5 8 9 10 1
+choose 0-2
+1
+enter a value to insert
+1
+1 2 5 8 9 10 
+choose 0-2
+2
+enter a value to remove
+1
+2 5 8 9 10 
+choose 0-2
+2
+enter a value to remove
+10
+2 5 8 9 
+choose 0-2
+2
+enter a value to remove
+3
+value not found
+2 5 8 9 
+choose 0-2
+0
+

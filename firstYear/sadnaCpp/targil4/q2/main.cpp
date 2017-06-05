@@ -72,7 +72,7 @@ int main() {
             cout<<"insert the numbers:"<<endl;
             switch (vectorChoice) {
             case V1:
-		v1.clear();//free the old entries
+                v1.clear();//free the old entries
                 //try to insert to the size
                 for(int i =0;i<size;++i){
                     cin>>val;//get the value from the user
@@ -87,7 +87,7 @@ int main() {
                 cin.ignore (std::numeric_limits<std::streamsize>::max(), '\n');//ignore the rest of the line
                 break;
             case V2:
-		v2.clear();//free the old entries
+                v2.clear();//free the old entries
                 //try to insert to the size
                 for(int i =0;i<size;++i){
                     cin>>val;//get the value from the user
@@ -139,6 +139,7 @@ int main() {
                 v2.clear();//clear
                 break;
             }
+            break;
         case DELETE_LAST:
             //delete the last item in a vector
             vectorChoice =subMenu();//print the sub menu

@@ -1,3 +1,11 @@
+/*
+    File: clock.cpp
+    Description: This is the  file for clock class
+    Course: 150018 C++ Workshop, Exercise 4, Question 3
+    Student1: Avi margali 305645137
+    Student2: Yeuda Nuiman 301759692
+    Teacher: Dan Zilberstein
+*/
 #include "clock.h"
 #include<math.h>
 Clock::Clock(int hour , int minute , int seconds) {

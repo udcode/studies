@@ -1,0 +1,20 @@
+ID: 234
+First name: Yitzhak
+Last Name: Avrahamson
+Number of courses: 10
+Grades: 100 100 90 100 90 100 90 100 90 100
+==========================================
+ID: 456
+First name: Sara
+Last Name: Emanu
+Number of courses: 7
+Grades: 90 100 90 100 90 100 90
+Research: yes
+==========================================
+ID: 789
+First name: Leah
+Last Name: Jacobs
+Number of courses: 2
+Research houres: 30
+==========================================
+
